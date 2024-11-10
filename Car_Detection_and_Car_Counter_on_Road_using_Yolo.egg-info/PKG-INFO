@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Car-Detection-and-Car-Counter-on-Road-using-Yolo
+Version: 1.0
+Author: Rajveer Singh
+License-File: LICENSE
+Requires-Dist: opencv-python
+Requires-Dist: ultralytics
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-image
+Requires-Dist: filterpy
+Requires-Dist: torch
